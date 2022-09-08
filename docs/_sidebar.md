@@ -3,7 +3,7 @@
 <!-- * [特别注意](/sidebar/tips) -->
 
 * 展示组件
-    * [banner](/exhibition/banner "这里是banner组件的入口")
+    * [banner](/exhibition/banner "这里是banner组件的入口12333")
     * [test](/exhibition/test)
 * 表单组件
     * [button](/form/button)
